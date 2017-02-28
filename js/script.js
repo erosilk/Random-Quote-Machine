@@ -11,7 +11,7 @@ function tweetQuote() {
 
 function getQuote() {
   $.ajax({
-    url: 'http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1',
+    url: 'https://cors-anywhere.herokuapp.com/http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1',
     success: function(data) {
 
       var title = data[0].title;
