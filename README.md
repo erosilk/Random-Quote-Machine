@@ -2,7 +2,7 @@
 ----------------
 This app was made for FreeCodeCamp.  
 Much thanks to [FreeCodeCampBA](https://freecodecampba.org/) for the support!  
-[**You can try it out at codepen.io too!**](http://codepen.io/erosilk/full/ZLRwbK/) (just make sure you're using http)
+[**Try it out!**](https://erosilk.github.io/random-quote-machine/)
 
 
 
@@ -11,4 +11,4 @@ You can tweet your quotes!
 
 **Screenshot:**
 
-![Screenshot of the Local Weather app](http://i.imgur.com/OPjhywl.png)
+![Screenshot of the Random Quote Machine app](http://i.imgur.com/OPjhywl.png)
